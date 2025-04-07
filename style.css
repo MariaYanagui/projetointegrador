@@ -98,7 +98,7 @@ nav ul li a.ativo {
  
  
 main {
-    margin-left: 270px;
+    
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
@@ -197,14 +197,14 @@ a:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     z-index: 1000;
 }
- 
- 
 .voltar-btn:hover {
     background-color: #3F6A8C;
     transform: scale(1.05);
 }
- 
- 
 .voltar-btn:focus {
     outline: none;
+}
+img {
+    width: 90%;
+    text-align: center;
 }
